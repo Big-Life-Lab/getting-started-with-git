@@ -20,4 +20,4 @@ Clicking on the modified file in this panel tells you exactly what changes were 
 - ![](images/git-kracken-line-added.png) This says that lines 20 to 22 were added to this file
 - ![](images/git-kracken-line-removed.png) This says that line 14 was removed from this file
 
-Click the our-team.md file in the right hand panel to see the line you added to the file
+Click the gitters.md file in the right hand panel to see the line you added to the file

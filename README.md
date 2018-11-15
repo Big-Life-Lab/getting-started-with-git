@@ -2,18 +2,18 @@
 
 "Version Control System" is the technical/software term used to describe Git and the term that will come up most often when it is googled. But Git can be used by **anybody** and will most probably improve the quality of your work if you decide to use it when writing papers, code etc.
 
-**If you have any questions, technical issues, or feedback on any part of this document feel free to contact Yulric Sequeira either on Microsoft Teams or by email at ysequeira@ohri.ca**
+**If you have any questions, technical issues, or feedback on any part of this document feel free to contact Yulric Sequeira either by email at ysequeira@ohri.ca or open an issue here https://github.com/Big-Life-Lab/GettingStartedWithGit/issues**
 
 ## What is Git
 
-Git is used to track files and these can range from simple text files, program files like ones written for R, Javascript, and CSV files, etc. (don't try it with MS Word files though since these are binary files). You should use Git if you....
+Git is used to track files and these can range from simple text files, program files like ones written for R, Javascript, and data files like CSV files, etc. (don't try it with MS Word files though since these are binary files). You should use Git if you....
 
-- Want to avoid the versioning hell using file names. If you have a folder where the file names look like "File_2018-01-11.txt", "File_2018-01-11-final.txt" etc., then use Git! It avoids this entire issue by using a concept called commits.
+- Want to avoid the hell that is versioning using file names. If you have a folder where the file names look like "File_2018-01-11.txt", "File_2018-01-11-final.txt" etc., then use Git! It avoids this entire issue by using a concept called commits
 - Want to know exactly what changes were made from one version of a file to another. This is one of the most powerful features of Git and is not only built into it but also a host of programs exist online that show this in an intuitive way
 - Want a workflow that encourages collabration rather than hindering or discouraging it. Git has features like branching, stashing etc. that makes collabaration painless
-- Are tired of contiously making copies of files before making changes to them due to fear of making a mistake, overwriting somebody else's work etc.
+- Are tired of continously making copies of files before making changes to them due to fear of making a mistake, overwriting somebody else's work etc.
 
-Convinced? Then read on
+Convinced? Then read on!
 
 ## Things you will need
 
@@ -25,7 +25,7 @@ Continue to the next sections only after you reach a screen with a button named 
 
 ## Basic Git Concepts (or how to earn a PBL sticker!)
 
-The next few sections provide a practical introduction at the end of which if everything goes right (fingers crossed) your name should appear here https://github.com/Big-Life-Lab/Welcome/blob/master/our-team.md
+The next few sections provide a practical introduction at the end of which if everything goes right (fingers crossed) your name should appear here https://github.com/Big-Life-Lab/GettingStartedWithGit/blob/master/gitters.md
 
 ### [Repositories and Cloning](repositories-and-cloning.md)
 

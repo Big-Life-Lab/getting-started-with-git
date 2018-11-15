@@ -4,11 +4,11 @@ Git allows you to sync all the changes you have made to a repo on your computer 
 
 Before we define what syncing in git does, we should go over the concept of a **local** and **remote** repo
 
-A **local** repo is a git repo that is on your computer. For eg., the Welcome repo that is currently on your computer is a local repo
+A **local** repo is a git repo that is on your computer. For eg., the GettingStartedWithGit repo that is currently on your computer is a local repo
 
-A **remote** repo is a git repo that is not on your computer. For eg., the Welcome repo that you see when you go to this link https://github.com/Big-Life-Lab/Welcome is a remote repo that is stored on github's computers
+A **remote** repo is a git repo that is not on your computer. For eg., this repo that you see when you go to this link https://github.com/Big-Life-Lab/GettingStartedWithGit is a remote repo that is stored on github's computers
 
-Remote repos allow you to backup your project so that you don't lose anything in case of a computer failure, so you can work on the project when you switch computers and so other people can see your work
+Remote repos allow you to backup your project so that you don't lose anything in case of a computer failure, so you can work on the project when you switch computers, and so other people can see your work
 
 Local repos allow you to make changes to your project without showing those changes to anybody else or affecting somebody else' work
 
@@ -20,6 +20,6 @@ Currently you have one commit in your local repo that needs to be pushed to gith
 
 1. If you look at the left hand side of git kracken you should see a section called LOCAL and underneath that the text master. If you did the previous section correctly you should see an arrow pointing upwards with the number 1 next to it. This means that you have one commit in your local repo that github does not have. Similarly if there's a downward arrow then there are commits in github that you do not have on your computer.
 2. Push this commit to github (which is the commit you created in the last section) by clicking the Push button at the very top center of git kracken
-3. Verify that your push was successful by going to the Welcome repo in github https://github.com/Big-Life-Lab/Welcome ![this](images/github-push-success.png) Also your name should appear here https://github.com/Big-Life-Lab/Welcome/blob/master/our-team.md
+3. Verify that your push was successful by going to the repo in github https://github.com/Big-Life-Lab/GettingStartedWithGit and seeing ![this](images/github-push-success.png). Also your name should appear here https://github.com/Big-Life-Lab/GettingStartedWithGit/blob/master/gitters.md
 
 Wonderful! You have successfuly pushed your changes to github
