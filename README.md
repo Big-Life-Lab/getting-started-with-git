@@ -27,7 +27,7 @@ Continue to the next sections only after you reach a screen with a button named 
 
 The next few sections provide a practical introduction at the end of which if everything goes right (fingers crossed) your name should appear here https://github.com/Big-Life-Lab/Welcome/blob/master/our-team.md
 
-### [Repositories and Cloning](respositories-and-cloning.md)
+### [Repositories and Cloning](repositories-and-cloning.md)
 
 ### [Adding, Staging and Commiting](adding-staging-commiting.md)
 
