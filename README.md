@@ -1,31 +1,48 @@
-# Wiki of resources for the Big-Life-Lab (BLL) GitHub organization
+# Getting Started with Git
 
-[**Favourite tools**](favourite-tools.md)
+"Version Control System" is the technical/software term used to describe Git and the term that will come up most often when it is googled. But Git can be used by **anybody** and will most probably improve the quality of your work if you decide to use it when writing papers, code etc.
 
-[**Reproducible research**](reproducible-research.md)
+**If you have any questions, technical issues, or feedback on any part of this document feel free to contact Yulric Sequeira either on Microsoft Teams or by email at ysequeira@ohri.ca**
 
-[**Data visualization**](data-visualization.md)
+## What is Git
 
-[**Coding**](coding.md)
+Git is used to track files and these can range from simple text files, program files like ones written for R, Javascript, and CSV files, etc. (don't try it with MS Word files though since these are binary files). You should use Git if you....
 
-[**Data analysis**](data-analysis.md)
+- Want to avoid the versioning hell using file names. If you have a folder where the file names look like "File_2018-01-11.txt", "File_2018-01-11-final.txt" etc., then use Git! It avoids this entire issue by using a concept called commits.
+- Want to know exactly what changes were made from one version of a file to another. This is one of the most powerful features of Git and is not only built into it but also a host of programs exist online that show this in an intuitive way
+- Want a workflow that encourages collabration rather than hindering or discouraging it. Git has features like branching, stashing etc. that makes collabaration painless
+- Are tired of contiously making copies of files before making changes to them due to fear of making a mistake, overwriting somebody else's work etc.
 
-[**Git**](Git.md)
+Convinced? Then read on
 
-## Welcome to the BLL!
+## Things you will need
 
-**What is the BLL GitHub organization?**
-Simiply a place to share code and information for projects. We set up this BLL GitHub organizatoin for projects related to Doug Manuel' and Peter Tanuseputro's teams, projects, collaborations and trainees. We want to be inviting and for you to not worry about whether you or your project fits. Feel free to use this organization for uses that makes sense to you.
+If you are a first time Git user then we highly recommend starting out with Git Kracken https://www.gitkraken.com/git-client.
 
-**Can I create new repositories or GitHub teams for my projects?**
-Yes.
+Once you have downloaded, installed and run the program you will need to login using your Github credentials. There should be a button named "Sign in with github". This will open up your browser and you should follow the instructions there to get everything setup
 
-**Can I invite people to the organization?**
-Yes. Feel free to invite trainees or collaborators. Contact [Karen Pacheco](kpacheo@ohri.ca) or [Doug Manuel](dmanuel@ohri.ca) to add new people.
+Continue to the next sections only after you reach a screen with a button named "Open a project" ![](images/git-kracken-open-project.png)
 
-**Can I share repositories and code?**
-Make a public repo if you want to share code or information with those who are not members in the organization.
+## Basic Git Concepts (or how to earn a PBL sticker!)
 
-**Can I add or modify this README?**
-Yes.
-If you are not sure whether your modifications or additions makes sense, feel free to make a [pull request](https://help.github.com/articles/about-pull-requests/). Also, feel free to make an [issue](https://help.github.com/articles/about-issues/) to discuss topics. Don't worry about making mistakes or unwelcomed changes, reversing mistakes and revising changes is really easy with Git and GitHub.
+The next few sections provide a practical introduction at the end of which if everything goes right (fingers crossed) your name should appear here https://github.com/Big-Life-Lab/Welcome/blob/master/our-team.md
+
+### [Repositories and Cloning](respositories-and-cloning.md)
+
+### [Adding, Staging and Commiting](adding-staging-commiting.md)
+
+### [Local Repo, Remote Repo, Pushing and Pulling](local-remote-pushing-pulling.md)
+
+### [Diffing](diffing.md)
+
+## What's next?
+
+If you have completed all the parts in this section then congrats! You have earned a PBL sticker which Karen Pacheco should be happy to give to you provided you show proof of your work. There are still other poweful git features outlined in the Advanced Git Concepts section however these should be more than enough to get you going. Happy gitting!
+
+## Advanced Git Concepts (WIP)
+
+### Branching and Checkout (WIP)
+
+### Stashing (WIP)
+
+### Pull Requests (WIP)
