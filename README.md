@@ -6,7 +6,7 @@
 
 ## What is Git
 
-Git is used to track files and these can range from simple text files, program files like ones written for R, Javascript, and data files like CSV files, etc. (don't try it with MS Word files though since these are binary files). You should use Git if you....
+Git is used to track files and these can range from simple text files, program files like ones written for SAS, R, Javascript, and data files like CSV files, etc. (don't try it with MS Word files though since these are binary files). You should use Git if you....
 
 - Want to avoid the hell that is versioning using file names. If you have a folder where the file names look like "File_2018-01-11.txt", "File_2018-01-11-final.txt" etc., then use Git! It avoids this entire issue by using a concept called commits
 - Want to know exactly what changes were made from one version of a file to another. This is one of the most powerful features of Git and is not only built into it but also a host of programs exist online that show this in an intuitive way
