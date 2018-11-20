@@ -12,4 +12,4 @@ We will be focusing on the first way of starting a repository but if you are int
 
 Let's clone or download the GettingStartedWithGit repo (short for repository) into our computer. This article goes over how to do this in git kracken https://blog.axosoft.com/remote-repository/ and this is the link to the repo https://github.com/Big-Life-Lab/GettingStartedWithGit.
 
-If everything went well then you should have the repo on your computer. Congrats! you have successfully created a git repo!
+If everything went well then you should have the repo on your computer. Congrats...you have successfully created a git repo!
