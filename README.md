@@ -39,10 +39,13 @@ The next few sections provide a practical introduction at the end of which if ev
 
 If you have completed all the parts in this section then congrats! You have earned a PBL sticker which Karen Pacheco should be happy to give to you provided you show proof of your work. There are still other poweful git features outlined in the Advanced Git Concepts section however these should be more than enough to get you going. Happy gitting!
 
-## Advanced Git Concepts (WIP)
+## Advanced Git Concepts
 
-### Branching and Checkout (WIP)
+The basic concepts you learned in the previous section will go a long way when working on solo projects. However, when working on team projects things start to get hairy without the concepts outlined in this section. Features like **branching** and **pull requests** enable the development of workflows that
+make collaboration much smoother.
+
+### [Branching, Checkout and Merging](/advanced-concepts/branching-checkout.md)
+
+### [Pull Requests](/advanced-concepts/pull-requests.md)
 
 ### Stashing (WIP)
-
-### Pull Requests (WIP)

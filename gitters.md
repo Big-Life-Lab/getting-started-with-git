@@ -1,6 +1,6 @@
 # Gitters
 
-- Yulric Sequeira
+- Yulric Sequeira. "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." - MewTwo
 - Doug Manuel
 - Carol Bennett
 - Cameron Bell
