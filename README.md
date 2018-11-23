@@ -46,6 +46,6 @@ make collaboration much smoother.
 
 ### [Branching, Checkout and Merging](/advanced-concepts/branching-checkout.md)
 
-### Stashing (WIP)
+### [Pull Requests](/advanced-concepts/pull-requests.md)
 
-### Pull Requests (WIP)
+### Stashing (WIP)
