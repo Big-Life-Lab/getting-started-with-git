@@ -10,7 +10,7 @@ Git is used to track files and these can range from simple text files, program f
 
 - Want to avoid the hell that is versioning using file names. If you have a folder where the file names look like "File_2018-01-11.txt", "File_2018-01-11-final.txt" etc., then use Git! It avoids this entire issue by using a concept called commits
 - Want to know exactly what changes were made from one version of a file to another. This is one of the most powerful features of Git and is not only built into it but also a host of programs exist online that show this in an intuitive way
-- Want a workflow that encourages collabration rather than hindering or discouraging it. Git has features like branching, stashing etc. that makes collabaration painless
+- Want a workflow that encourages collabration rather than hindering or discouraging it. Git has features like branching, stashing etc. that makes collaboration painless
 - Are tired of continously making copies of files before making changes to them due to fear of making a mistake, overwriting somebody else's work etc.
 
 Convinced? Then read on!
