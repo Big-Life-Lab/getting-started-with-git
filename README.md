@@ -29,7 +29,7 @@ The next few sections provide a practical introduction at the end of which if ev
 
 ### [Repositories and Cloning](repositories-and-cloning.md)
 
-### [Adding, Staging and Commiting](adding-staging-commiting.md)
+### [Adding, Staging and Committing](adding-staging-commiting.md)
 
 ### [Local Repo, Remote Repo, Pushing and Pulling](local-remote-pushing-pulling.md)
 
