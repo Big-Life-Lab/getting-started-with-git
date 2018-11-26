@@ -29,7 +29,7 @@ The next few sections provide a practical introduction at the end of which if ev
 
 ### [Repositories and Cloning](repositories-and-cloning.md)
 
-### [Adding, Staging and Commiting](adding-staging-commiting.md)
+### [Adding, Staging and Committing](adding-staging-commiting.md)
 
 ### [Local Repo, Remote Repo, Pushing and Pulling](local-remote-pushing-pulling.md)
 
@@ -38,6 +38,8 @@ The next few sections provide a practical introduction at the end of which if ev
 ## What's next?
 
 If you have completed all the parts in this section then congrats! You have earned a PBL sticker which Karen Pacheco should be happy to give to you provided you show proof of your work. There are still other poweful git features outlined in the Advanced Git Concepts section however these should be more than enough to get you going. Happy gitting!
+
+If you have the time, please consider answering this short survey on the tutorial https://projectbiglife.typeform.com/to/zI4WND?tutorial_type=basic. This will help us improve the tutorial for future gitters.
 
 ## Advanced Git Concepts (WIP)
 
