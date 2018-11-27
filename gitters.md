@@ -5,3 +5,4 @@
 - Carol Bennett
 - Cameron Bell
 - Meltem G. Tuna
+- Stacey Fisher
