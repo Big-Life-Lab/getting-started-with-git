@@ -4,4 +4,4 @@
 - Doug Manuel
 - Carol Bennett
 - Cameron Bell
-- Meltem Tuna
+- Meltem G. Tuna
