@@ -6,7 +6,7 @@ Before you commit your work, git requires you to **add** or **stage** all the fi
 
 In this step you will create a commit that adds your name to the gitters.md file.
 
-First modify the [gitters.md](gitter.md) file. This is a markdown file. Add your name to the file by typing a hypen followed by your name in a new line. Look at line 3 in the gitters.md file for an example.
+First modify the [gitters.md](gitters.md) file. This is a markdown file. Add your name to the file by typing a hypen followed by your name in a new line. Look at line 3 in the gitters.md file for an example.
 
 Next follow the instructions here https://www.youtube.com/watch?v=9YCO-3_MApI to commit your changes in Gitkracken.
 
