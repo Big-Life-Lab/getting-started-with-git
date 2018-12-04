@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gitters
 
 - Yulric Sequeira
@@ -6,4 +7,5 @@
 - Cameron Bell
 - Meltem G. Tuna
 - Stacey Fisher
-- Melany Pelletier-Vaillant
+- Mellany Pelletier-Vaillant
+- Wenshan Li
