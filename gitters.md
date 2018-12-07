@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gitters
 
 - Yulric Sequeira
