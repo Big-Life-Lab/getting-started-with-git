@@ -10,3 +10,4 @@
 - Wenshan Li
 - Anan Bader Eddeen
 - Mahsa Jessri
+- Daniel Fridman
