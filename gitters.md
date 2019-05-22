@@ -12,3 +12,4 @@
 - Mahsa Jessri
 - Daniel Fridman
 - Mahmoud Azimaee
+- Alex Kopp
